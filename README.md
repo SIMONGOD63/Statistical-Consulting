@@ -10,6 +10,7 @@ Then, the number of class and the assignation for each sentence was done using A
 
 Finally, DistilBERT model was fine-tuned on these classes in order to develop a potential verification tool for those descriptions.
 
-The training of the DistilBERT model were not satisfying. With more time, I would have tried alternative models and thinner cleaning of my dataset.
+The training of the DistilBERT model were not satisfying : difficulty in classifying low frequency classes.
+With more time, I would have tried alternative models and thinner cleaning of my dataset.
 
 ## AE Project
