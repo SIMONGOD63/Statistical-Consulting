@@ -19,4 +19,6 @@ But the size of the model in 2023 and the computation power available made it an
 
 ## AE Project
 The goal of the project was to identify booking profiles, and more precisely the cases where they were cancelled.
-I reduced the dimension using a Variational Auto-Encoder and then KMeans to identify profiles in that dimension.
+I reduced the dimension using a Variational Auto-Encoder and then KMeans to identify profiles in that dimension. 
+It successfully identified booking profiles with an higher proportion of annulation, which might be a valuable information for the company.
+With more time, I would have further thin the annulation profiles to discover further sub-categories, if they exist.
